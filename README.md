@@ -1,4 +1,4 @@
-# ¡Hola! Soy Christian Dibari ! 👋
+# ¡Hola, Soy Christian Dibari ! 👋
 
 Estudiante de Ciencias del Mar apasionado sobre todo por la ingeniería costera, el análisis de datos oceanográficos y la hidráulica ambiental. 
 Mi objetivo es especializarme en la gestión, modelado y diseño de obras e infraestructuras del litoral mediante el Máster de Costas y Puertos 
