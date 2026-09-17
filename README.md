@@ -20,9 +20,7 @@ de la Universidad de Cantabria.
 
 - Proyecto BRISA-Cádiz: Campaña científica internacional sobre dinámica atmosférica costera y modelización de brisas marinas.
 
-## 🔬 Actividad Científica
-
-### BRISA Field Campaign (2026)
+## BRISA Field Campaign (2026)
 
 Participación en la campaña internacional BRISA para el estudio
 de las brisas marinas y su impacto en las condiciones
