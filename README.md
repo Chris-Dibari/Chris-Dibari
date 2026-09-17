@@ -20,6 +20,30 @@ de la Universidad de Cantabria.
 
 - Proyecto BRISA-Cádiz: Campaña científica internacional sobre dinámica atmosférica costera y modelización de brisas marinas.
 
+## 🔬 Actividad Científica
+
+### BRISA Field Campaign (2026)
+
+Participación en la campaña internacional BRISA para el estudio
+de las brisas marinas y su impacto en las condiciones
+meteorológicas costeras del Golfo de Cádiz.
+
+Mi contribución incluyó trabajo de campo, adquisición de datos
+y apoyo en actividades de observación atmosférica.
+
+**Contribución relacionada presentada en:**
+
+EMS Annual Meeting 2026 (Utrecht, Netherlands)
+
+📄 Abstract oficial:
+https://meetingorganizer.copernicus.org/EMS2026/EMS2026-339.html
+
+📚 DOI:
+https://doi.org/10.5194/ems2026-339
+
+🎤 Presentación oficial:
+
+
 # 📧 Contacto: 
 
 chris.dibari@alum.uca.es
