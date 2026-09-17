@@ -42,7 +42,7 @@ https://meetingorganizer.copernicus.org/EMS2026/EMS2026-339.html
 https://doi.org/10.5194/ems2026-339
 
 🎤 Presentación oficial:
-
+[Roman_Cascon_et_al_2026_EMS.pdf](https://github.com/user-attachments/files/32341010/Roman_Cascon_et_al_2026_EMS.pdf)
 
 # 📧 Contacto: 
 
