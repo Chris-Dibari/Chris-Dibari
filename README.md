@@ -43,6 +43,7 @@ https://doi.org/10.5194/ems2026-339
 
 🎤 Presentación oficial:
 [Roman_Cascon_et_al_2026_EMS.pdf](https://github.com/user-attachments/files/32341010/Roman_Cascon_et_al_2026_EMS.pdf)
+My name appears in the official conference presentation as a collaborator of the BRISA field campaign.
 
 # 📧 Contacto: 
 
