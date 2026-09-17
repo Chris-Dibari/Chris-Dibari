@@ -33,34 +33,6 @@ de la Universidad de Cantabria.
 *   **Asignaturas clave:** Oceanografía Física Aplicada (OFA), Oceanografía Geológica Aplicada (OGA), entre otras.
 * 🔗 **[Acceder al repositorio completo de asignaturas →](https://github.com)**
 
-# 🚀 Proyectos en Desarrollo
-
-- Proyecto BRISA-Cádiz: Campaña científica internacional sobre dinámica atmosférica costera y modelización de brisas marinas.
-
-## BRISA Field Campaign (2026)
-
-Participación en la campaña internacional BRISA para el estudio
-de las brisas marinas y su impacto en las condiciones
-meteorológicas costeras del Golfo de Cádiz.
-
-Mi contribución incluyó trabajo de campo, adquisición de datos
-y apoyo en actividades de observación atmosférica.
-
-**Contribución relacionada presentada en:**
-
-EMS Annual Meeting 2026 (Utrecht, Netherlands)
-
-📄 Abstract oficial:
-https://meetingorganizer.copernicus.org/EMS2026/EMS2026-339.html
-
-📚 DOI:
-https://doi.org/10.5194/ems2026-339
-
-🎤 Presentación oficial:
-[Roman_Cascon_et_al_2026_EMS.pdf](https://github.com/user-attachments/files/32341010/Roman_Cascon_et_al_2026_EMS.pdf)
-
-My name appears in the official conference presentation as a collaborator of the BRISA field campaign.
-
 # 📧 Contacto: 
 
 chris.dibari@alum.uca.es
