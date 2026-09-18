@@ -20,7 +20,6 @@ de la Universidad de Cantabria.
 
 ### 🔬 Proyecto BRISA — Análisis Ambiental Litoral
 *   **Resumen:** Colaborador en el proyecto internacional BRISA-Cádiz y Coautor en la presentación científica internacional para la **Conferencia de Utrecht (2026)**.
-*   **Material Oficial:** Incluye el registro formal de la contribución y el documento científico en formato PDF.
 *   [BRISA-Cadiz](https://github.com/Chris-Dibari/Proyecto-BRISA)
 
 ---
@@ -28,12 +27,14 @@ de la Universidad de Cantabria.
 ### 📢 Divulgación en el Instituto de Investigación Marina (INMAR)
 *   **Resumen:** Colaborador activo en **La Noche Europea de los Investigadores** (Septiembre, 2026) junto al **Dr. Jesús Ruiz González** (Dpto. de Tecnologías del Medio Ambiente). Participación en el diseño y guía de los talleres científicos de biotecnología de microalgas.
 *   **Material Oficial:** Resúmenes del taller, infografías didácticas y registros del evento.
+*   [Divulgación-INMAR](https://github.com/Chris-Dibari/Divulgacion-Jornadas-INMAR)
 
 ---
 
 ### 📊 Base de Datos Académica — 4º Curso de Ciencias del Mar
 *   **Resumen:** Repositorio centralizado de mi formación. Contiene la digitalización completa de mis asignaturas utilizando Markdown.
 *   **Asignaturas clave:** Oceanografía Física Aplicada (OFA), Oceanografía Geológica Aplicada (OGA), entre otras.
+*   [Cuarto-Curso](https://github.com/Chris-Dibari/Apuntes_Universidad_4_Curso)
 
 # 📧 Contacto: 
 
